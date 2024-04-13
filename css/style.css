@@ -700,6 +700,7 @@ nav{
     left:5%;
     font-size: 20px;
     cursor: pointer;
+    overflow: hidden;
 }
 .leaver-over-header.active{
     display: flex;
@@ -756,17 +757,17 @@ nav{
 
     .leaver-over-header{
         display: none;
-        top: 7%;
+        top: 10%;
         right:5%;
     }
     .join-over-header{
         display: flex;
-        top: 7%;
+        top: 10%;
         right:5%;
     }
     .leaver-arrow{
         display: flex;
-        top: 7%;
+        top: 10%;
         left:5%;
     }
     
@@ -810,15 +811,15 @@ nav{
 
     }
     .leaver-over-header{
-        top:3%;
+        top:5%;
         right:5%;
     }
     .join-over-header{
-        top:3%;
+        top:5%;
         right:5%;
     }
     .leaver-arrow{
-        top:3%;
+        top:5%;
         left:5%;
     }
  
